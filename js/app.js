@@ -6,7 +6,7 @@ angularWeb.controller('navigationController', function($scope, $location) {
     };
 })
 
-angularWeb.controller('CarouselDemoCtrl', function ($scope) {
+angularWeb.controller('carouselController', function ($scope) {
   $scope.myInterval = 5000;
   var slides = $scope.slides = [];
   $scope.addSlide = function() {
