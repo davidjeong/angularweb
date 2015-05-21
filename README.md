@@ -1,2 +1,3 @@
 # angularweb
-Persona website that is still in progress.
+Personal website that is still in progress.
+ETA: unknown
